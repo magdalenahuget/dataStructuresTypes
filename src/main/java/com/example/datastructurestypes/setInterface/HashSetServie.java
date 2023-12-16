@@ -1,4 +1,4 @@
-package com.example.datastructurestypes.listInteface;
+package com.example.datastructurestypes.setInterface;
 
 public class HashSetServie {
 }
