@@ -1,4 +1,4 @@
 package com.example.datastructurestypes.listInteface;
 
-public class HashSetServie {
+public class StackService {
 }

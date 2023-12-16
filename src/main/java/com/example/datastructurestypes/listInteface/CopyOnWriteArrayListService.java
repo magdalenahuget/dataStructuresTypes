@@ -1,4 +1,4 @@
 package com.example.datastructurestypes.listInteface;
 
-public class DequeueService {
+public class CopyOnWriteArrayListService {
 }
